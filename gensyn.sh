@@ -130,8 +130,6 @@ function main_menu() {
         echo -e "${CYAN}    📺  YouTube:  @CryptoAirdropHindi6${NC}"
         echo -e "${CYAN}    💻  GitHub:   github.com/CryptoAirdropHindi${NC}"
         echo -e "${BLUE}=======================================================${NC}"
-        echo -e "${YELLOW}       The most advanced node management system${NC}"
-        echo "${BLUE}============================================================${NC}"
         echo "To exit the script, press Ctrl + C"
         echo "Please select an option:"
         echo "1. Install gensyn-ai node"
