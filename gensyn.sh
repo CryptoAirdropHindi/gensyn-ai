@@ -131,12 +131,12 @@ function main_menu() {
         echo -e "${CYAN}    💻  GitHub:   github.com/CryptoAirdropHindi${NC}"
         echo -e "${BLUE}=======================================================${NC}"
         echo "To exit the script, press Ctrl + C"
-        echo "Please select an option:"
-        echo "1. Install gensyn-ai node"
-        echo "2. View Rl Swarm logs"
-        echo "3. View Web UI logs"
-        echo "4. View Telemetry logs"
-        echo "5. Exit"
+        echo -e "${BLUE}Please select an option:${NC}"
+        echo -e "${BLUE}1. Install gensyn-ai node${NC}"
+        echo -e "${BLUE}2. View Rl Swarm logs${NC}"
+        echo -e "${BLUE}3. View Web UI logs${NC}"
+        echo -e "${BLUE}4. View Telemetry logs${NC}"
+        echo -e "${BLUE}5. Exit${NC}"
         read -p "Enter your choice [1-5]: " choice
         case $choice in
             1)
