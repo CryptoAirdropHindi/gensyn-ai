@@ -208,7 +208,6 @@ function uninstall_node(){
 function main_menu() {
     while true; do
         clear
-        echo "================== $PROGRAMNAME One-Click Deployment Script =================="
         echo -e "${CYAN}"
         echo -e "    ${RED}██╗  ██╗ █████╗ ███████╗ █████╗ ███╗   ██╗${NC}"
         echo -e "    ${GREEN}██║  ██║██╔══██╗██╔════╝██╔══██╗████╗  ██║${NC}"
@@ -218,6 +217,7 @@ function main_menu() {
         echo -e "    ${CYAN}╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝${NC}"
         echo -e "${BLUE}=======================================================${NC}"
         echo -e "${GREEN}            🚀 gensyn-ai Node Management 🚀${NC}"
+        echo "=============== $PROGRAME One-Click Deployment Script =================${NC}"
         echo -e "${BLUE}=======================================================${NC}"
         echo -e "${CYAN}    🌐  Telegram: @CryptoAirdropHindi${NC}"
         echo -e "${CYAN}    📺  YouTube:  @CryptoAirdropHindi6${NC}"
