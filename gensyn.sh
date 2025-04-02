@@ -216,7 +216,7 @@ function main_menu() {
         echo -e "    ${MAGENTA}██║  ██║██║  ██║███████║██║  ██║██║ ╚████║${NC}"
         echo -e "    ${CYAN}╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝${NC}"
         echo -e "${BLUE}=======================================================${NC}"
-        echo -e "${GREEN}  🚀 gensyn-ai Node Management One-Click Deployment Script 🚀 ${NC}"
+        echo -e "${GREEN} 🚀 gensyn-ai Node Management One-Click Setup Script 🚀 ${NC}"
         echo -e "${BLUE}=======================================================${NC}"
         echo -e "${CYAN}    🌐  Telegram: @CryptoAirdropHindi${NC}"
         echo -e "${CYAN}    📺  YouTube:  @CryptoAirdropHindi6${NC}"
