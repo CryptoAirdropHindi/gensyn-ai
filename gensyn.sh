@@ -228,7 +228,7 @@ function main_menu() {
         echo "3. View logs view_logs"
         echo "4. Stop node stop_node"
         echo "5. Start node start_node"
-        echo "1618. Uninstall node uninstall_node"
+        echo "6. Uninstall node uninstall_node"
         echo "0. Exit script exit"
         read -p "Enter option: " OPTION
     
@@ -238,7 +238,7 @@ function main_menu() {
         3) view_logs ;;
         4) stop_node ;;
         5) start_node ;;
-        1618) uninstall_node ;;
+        6) uninstall_node ;;
         0) echo "Exiting script."; exit 0 ;;
         *) echo "Invalid option, please try again."; sleep 3 ;;
         esac
