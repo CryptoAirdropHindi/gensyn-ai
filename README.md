@@ -1,4 +1,4 @@
-# Run RL Swarm Node 
+# Gensyn Node Run One click
 
 🎥 Video Guide [https://www.youtube.com/](https://www.youtube.com/@CryptoAirdropHindi6)
 
